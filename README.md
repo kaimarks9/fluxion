@@ -1,10 +1,4 @@
-# Fluxion by kaimarks9
-
-<p align="center"><img src="https://github.com/kaimarks9/Fluxion/blob/master/logos/Logo.png?raw=true" /></p>
-
-"Fluxion is the Future of MITM WPA Attacks" It is a remake by Mr. SAGE with less bugs and more functionality. It's compatible with the latest release of Kali (rolling). The attack is mostly manual, but experimental versions will automatically handle most functionality from the stable releases. (https://thehackingsage.github.io/Fluxion/)
-
-## How It Works :
+How It Works :
 
 * Scan the networks.
 * Capture a handshake (can't be used without a valid handshake, it's necessary to verify the password)
